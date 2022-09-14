@@ -11,7 +11,7 @@ then open the main.lua file in visual studio code.
 Then when you open it press alt + L to open your game.
 or another way to open it is to just drag the lovetest file into love.exe
 
-if you couldent follow the instructtion heres the video on how to do it: Video not up yet
+if you couldent follow the instruction heres a good video on the topic https://www.youtube.com/watch?v=wttKHL90Ank
 
 
 # Thanks
